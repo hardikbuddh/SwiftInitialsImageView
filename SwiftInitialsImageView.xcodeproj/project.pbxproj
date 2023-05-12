@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		56ECFD3E2A0D28B60079BC3B /* Swift+Initials+ImageView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift+Initials+ImageView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		56ECFD3E2A0D28B60079BC3B /* SwiftInitialsImageView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftInitialsImageView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56ECFD412A0D28B60079BC3B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		56ECFD432A0D28B60079BC3B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		56ECFD452A0D28B60079BC3B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		56ECFD352A0D28B60079BC3B = {
 			isa = PBXGroup;
 			children = (
-				56ECFD402A0D28B60079BC3B /* Swift+Initials+ImageView */,
+				56ECFD402A0D28B60079BC3B /* SwiftInitialsImageView */,
 				56ECFD3F2A0D28B60079BC3B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,12 +50,12 @@
 		56ECFD3F2A0D28B60079BC3B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				56ECFD3E2A0D28B60079BC3B /* Swift+Initials+ImageView.app */,
+				56ECFD3E2A0D28B60079BC3B /* SwiftInitialsImageView.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		56ECFD402A0D28B60079BC3B /* Swift+Initials+ImageView */ = {
+		56ECFD402A0D28B60079BC3B /* SwiftInitialsImageView */ = {
 			isa = PBXGroup;
 			children = (
 				56ECFD412A0D28B60079BC3B /* AppDelegate.swift */,
@@ -67,15 +67,15 @@
 				56ECFD4C2A0D28BC0079BC3B /* LaunchScreen.storyboard */,
 				56ECFD4F2A0D28BC0079BC3B /* Info.plist */,
 			);
-			path = "Swift+Initials+ImageView";
+			path = SwiftInitialsImageView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		56ECFD3D2A0D28B60079BC3B /* Swift+Initials+ImageView */ = {
+		56ECFD3D2A0D28B60079BC3B /* SwiftInitialsImageView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 56ECFD522A0D28BC0079BC3B /* Build configuration list for PBXNativeTarget "Swift+Initials+ImageView" */;
+			buildConfigurationList = 56ECFD522A0D28BC0079BC3B /* Build configuration list for PBXNativeTarget "SwiftInitialsImageView" */;
 			buildPhases = (
 				56ECFD3A2A0D28B60079BC3B /* Sources */,
 				56ECFD3B2A0D28B60079BC3B /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = "Swift+Initials+ImageView";
+			name = SwiftInitialsImageView;
 			productName = "Swift Initials ImageView";
-			productReference = 56ECFD3E2A0D28B60079BC3B /* Swift+Initials+ImageView.app */;
+			productReference = 56ECFD3E2A0D28B60079BC3B /* SwiftInitialsImageView.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 56ECFD392A0D28B60079BC3B /* Build configuration list for PBXProject "Swift+Initials+ImageView" */;
+			buildConfigurationList = 56ECFD392A0D28B60079BC3B /* Build configuration list for PBXProject "SwiftInitialsImageView" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				56ECFD3D2A0D28B60079BC3B /* Swift+Initials+ImageView */,
+				56ECFD3D2A0D28B60079BC3B /* SwiftInitialsImageView */,
 			);
 		};
 /* End PBXProject section */
@@ -341,7 +341,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		56ECFD392A0D28B60079BC3B /* Build configuration list for PBXProject "Swift+Initials+ImageView" */ = {
+		56ECFD392A0D28B60079BC3B /* Build configuration list for PBXProject "SwiftInitialsImageView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				56ECFD502A0D28BC0079BC3B /* Debug */,
@@ -350,7 +350,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		56ECFD522A0D28BC0079BC3B /* Build configuration list for PBXNativeTarget "Swift+Initials+ImageView" */ = {
+		56ECFD522A0D28BC0079BC3B /* Build configuration list for PBXNativeTarget "SwiftInitialsImageView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				56ECFD532A0D28BC0079BC3B /* Debug */,
