@@ -13,9 +13,7 @@ imageView.setImage(string: name.initials)
 imageView.setImage(string: name.initials, stroke: true)
 imageView.setImage(string: name.initials, color: .black)
 imageView.setImage(string: name.initials, circular: false)
-```
-
-This 
+``` 
 
 <table>
   <tr>
