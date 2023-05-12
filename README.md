@@ -4,4 +4,4 @@ This repository provides a simple and easy-to-use Image View with Initials for S
 
 The Image View with Initials is also customizable. You can change the font, the color, scanle of font and more. 
 
-![alt text](Screenshots/Simulator Screen Shot - iPhone SE (3rd generation) - 2023-05-11 at 20.11.55.png)
+![](Screenshots/Simulator Screen Shot - iPhone SE (3rd generation) - 2023-05-11 at 20.11.55.png)
