@@ -25,9 +25,9 @@ class ViewController: UIViewController {
             
             let imageView = arrImageViews[index]
             imageView.setImage(string: name.initials)
-//            arrImageViews[index].setImage(string: name.initials, stroke: true)
-//            arrImageViews[index].setImage(string: name.initials, circular: false)
-//            arrImageViews[index].setImage(string: name.initials, color: .black)
+//            imageView.setImage(string: name.initials, stroke: true)
+//            imageView.setImage(string: name.initials, circular: false)
+//            imageView.setImage(string: name.initials, color: .black)
         }
     }
 }
